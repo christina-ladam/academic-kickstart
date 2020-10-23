@@ -30,7 +30,7 @@
   
    [[main]]
     name = "CV"
-    url = "media/CV, 9.2020.pdf"
+    url = "static/media/CV, 9.2020.pdf"
     weight = 60
   
 [[main]]
