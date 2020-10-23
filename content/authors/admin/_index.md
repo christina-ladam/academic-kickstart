@@ -21,7 +21,7 @@ education:
     - course: Master of Public Administration
       institution: University of New Hampshire
       year: 2011
-email: ""
+email: cladam@unr.edu
 superuser: true
 user_groups:
   - Researchers
