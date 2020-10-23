@@ -16,7 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Journal of Experimental Political Science
- publication_short: JEPS
+publication_short: JEPS
 
 abstract: Does the process used to pass a law affect the way citizens evaluate the outcome? In a series of experiments, I manipulate the way in which a law is passed – ballot initiative or the legislative process – to test the effect of process on citizens’ evaluations of policy outcomes. The results show that people view the ballot initiative process as fairer than the legislative process, but that process has a negligible effect on outcome evaluations.
 
@@ -24,8 +24,8 @@ abstract: Does the process used to pass a law affect the way citizens evaluate t
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-# - Source Themes
-# featured: true
+ - Source Themes
+ featured: true
 
 links:
 #- name: Link to Article
