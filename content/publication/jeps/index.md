@@ -24,8 +24,8 @@ abstract: Does the process used to pass a law affect the way citizens evaluate t
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
- - Source Themes
- featured: true
+- Source Themes
+featured: true
 
 links:
 #- name: Link to Article
@@ -61,7 +61,3 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-
-
-
