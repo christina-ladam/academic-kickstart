@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Research"
-  url = "content/home/research.Rmd"
+  url = "content/home/projects.md"
   weight = 20
 
 [[main]]
