@@ -1,9 +1,7 @@
 ---
 title: "Prominent Role Models: High‐Profile Female Politicians and the Emergence of Women as Candidates for Public Office"
 authors:
-- admin
-- Jeffrey J. Harden
-- Jason H Windett
+- with Jeffrey J. Harden and Jason H Windett
 date: "2018"
 doi: "https://doi.org/10.1111/ajps.12351"
 
@@ -23,7 +21,7 @@ publication_short: AJPS
 abstract: Can prominent female politicians inspire other women to enter politics? A woman occupying a high‐profile office directly impacts women's substantive representation through her policy actions. Here, we consider whether these female leaders also facilitate a mobilization effect by motivating other women to run for office. We posit that prominent women in politics serve as role models for other women interested in political careers, causing an increase in female candidates. We test this theory with data from the American states, which exhibit considerable variation in the sex of state legislative candidates and the high‐profile offices of governor and U.S. senator. Using a weighting method and data spanning 1978–2012, we demonstrate that high‐profile women exert substantively large positive effects on female candidates. We conclude that women in major offices are crucial for women's representation. Beyond their direct policy impact, they amplify women's political voice by motivating more women to enter politics.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
