@@ -9,7 +9,7 @@ interests:
   - Women and politics
   - State and local politics
   - Network analysis
-  - Experiments.
+  - Experiments
 social: []
 organizations:
   - name: University of Nevada, Reno
