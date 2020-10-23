@@ -1,10 +1,11 @@
 ---
-title: "An example conference paper"
+title: "Prominent Role Models: High‐Profile Female Politicians and the Emergence of Women as Candidates for Public Office"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Jeffrey J. Harden
+- Jason H Windett
+date: "2018"
+doi: "https://doi.org/10.1111/ajps.12351"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: American Journal of Political Science
+publication_short: AJPS
 
 abstract: Can prominent female politicians inspire other women to enter politics? A woman occupying a high‐profile office directly impacts women's substantive representation through her policy actions. Here, we consider whether these female leaders also facilitate a mobilization effect by motivating other women to run for office. We posit that prominent women in politics serve as role models for other women interested in political careers, causing an increase in female candidates. We test this theory with data from the American states, which exhibit considerable variation in the sex of state legislative candidates and the high‐profile offices of governor and U.S. senator. Using a weighting method and data spanning 1978–2012, we demonstrate that high‐profile women exert substantively large positive effects on female candidates. We conclude that women in major offices are crucial for women's representation. Beyond their direct policy impact, they amplify women's political voice by motivating more women to enter politics.
 
@@ -29,16 +30,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Link to Article
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12351
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_pdf: 
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -71,5 +72,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
 
