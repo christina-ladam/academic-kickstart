@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Research"
-  url = "#research"
+  url = "research.Rmd"
   weight = 20
 
 [[main]]
