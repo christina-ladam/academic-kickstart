@@ -1,7 +1,7 @@
 ---
 title: Christina Ladam, Ph.D.
 role: Assistant Professor of Political Science
-avatar_filename: headshot.png
+avatar_filename: avatar.png
 bio: Assistant Professor of American politics at the University of Nevada, Reno.
 interests:
   - Deliberation
