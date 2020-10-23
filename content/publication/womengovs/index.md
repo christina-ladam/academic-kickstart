@@ -28,8 +28,8 @@ tags:
 featured: true
 
 links:
-- name: Link to Article
-  url: https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12351
+#- name: Link to Article
+#  url: https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12351
 #url_pdf: 
 #url_code: '#'
 #url_dataset: '#'
@@ -62,13 +62,6 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 
 
 
