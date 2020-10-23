@@ -1,6 +1,6 @@
 ---
 title: "Does Process Matter? Direct Democracy and Citizens’ Perceptions of Laws"
-#authors: Christina Ladam
+authors: Christina Ladam
 date: "2020"
 doi: "https://doi.org/10.1017/XPS.2019.28"
 
